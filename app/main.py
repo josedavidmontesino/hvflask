@@ -9,4 +9,4 @@ def home():
 
 @app.route('/about')
 def about():
-    return 'About page'
+    return 'Esto es una prueba de jose david montesino'
